@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\csharpcore.deps.json
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\csharpcore.runtimeconfig.json
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\csharpcore.runtimeconfig.dev.json
+C:\Users\User\Desktop\GildedRose-master\csharpcore\bin\Debug\netcoreapp2.1\csharpcore.dll
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.AssemblyInfo.cs
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.dll
+C:\Users\User\Desktop\GildedRose-master\csharpcore\obj\Debug\netcoreapp2.1\csharpcore.genruntimeconfig.cache
