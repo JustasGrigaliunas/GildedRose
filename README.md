@@ -1,3 +1,3 @@
-# GildedRose2
+# GildedRose
 
 My way of refactoring the solution
